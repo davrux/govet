@@ -1,5 +1,5 @@
-govet
-=====
+govet for Emacs
+===============
 
 Simple wrapper for go vet command
 
