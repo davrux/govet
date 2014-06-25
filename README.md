@@ -7,7 +7,7 @@ Simply rewritten from golint.el
 
 Usage:
 
-To install govel, add the following lines to your .emacs file:
+To install govet, add the following lines to your .emacs file:
 
 (add-to-list 'load-path "PATH CONTAINING govet.el" t)
 (require 'govet)
